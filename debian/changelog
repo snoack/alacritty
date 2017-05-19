@@ -1,3 +1,9 @@
+alacritty (0.1.0+git170512-2) artful; urgency=medium
+
+  * Override libfontconfig version requirement for compatiblity with older releases
+
+ --  Sebastian Noack <sebastian.noack@gmail.com>  Fri, 19 May 2017 12:30:00 +0200
+
 alacritty (0.1.0+git170512-1) artful; urgency=medium
 
   * Initial package
